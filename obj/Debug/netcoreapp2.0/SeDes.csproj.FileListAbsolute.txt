@@ -1,0 +1,10 @@
+/var/www/html/SeDes/bin/Debug/netcoreapp2.0/SeDes.deps.json
+/var/www/html/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.json
+/var/www/html/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.dev.json
+/var/www/html/SeDes/bin/Debug/netcoreapp2.0/SeDes.dll
+/var/www/html/SeDes/bin/Debug/netcoreapp2.0/SeDes.pdb
+/var/www/html/SeDes/obj/Debug/netcoreapp2.0/SeDes.csproj.CoreCompileInputs.cache
+/var/www/html/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfoInputs.cache
+/var/www/html/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfo.cs
+/var/www/html/SeDes/obj/Debug/netcoreapp2.0/SeDes.dll
+/var/www/html/SeDes/obj/Debug/netcoreapp2.0/SeDes.pdb
